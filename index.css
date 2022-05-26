@@ -155,7 +155,7 @@ nav {
     letter-spacing: 1px;
 }
 /* .search-box */
-.search-box{
+/* .search-box{
     position: absolute;
     top: 50%;
     left: 50%;
@@ -194,7 +194,7 @@ color: white;
 font-size: 16px;
 transform: 0.4s;
 line-height: 40px;
-width: 240px;
+width: 240px; */
 
 
 }
@@ -279,4 +279,17 @@ color: rgb(90, 88, 88);
 h4{
     font-size: 1.8rem;
     font-weight: 900;
+}
+.book{
+    background-color: aqua;
+    display: flex;
+}
+.book-now,.book{
+    background-color: antiquewhite;
+    padding: 5rem 4rem;
+    display: flex;
+    gap: 2rem;
+}
+.titile-min-padding-buttom{
+    padding: 2rem;
 }
